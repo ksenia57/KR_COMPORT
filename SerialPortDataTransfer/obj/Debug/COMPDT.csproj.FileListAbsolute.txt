@@ -1,0 +1,35 @@
+C:\Users\R A T I\source\repos\COMPDT\bin\Debug\COMPDT.exe.config
+C:\Users\R A T I\source\repos\COMPDT\bin\Debug\COMPDT.exe
+C:\Users\R A T I\source\repos\COMPDT\bin\Debug\COMPDT.pdb
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.csprojAssemblyReference.cache
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.Properties.Resources.resources
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.csproj.GenerateResource.cache
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.exe
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.pdb
+C:\Users\R A T I\source\repos\COMPDT\obj\Debug\COMPDT.Form.resources
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\bin\Debug\COMPDT.exe
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\bin\Debug\COMPDT.pdb
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.Form.resources
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.Properties.Resources.resources
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.csproj.GenerateResource.cache
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.exe
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.pdb
+C:\Users\R A T I\source\repos\SerialPortDataTransfer\obj\Debug\COMPDT.csprojAssemblyReference.cache
+C:\Users\kenia\yorati\SerialPortDataTransfer\bin\Debug\COMPDT.exe
+C:\Users\kenia\yorati\SerialPortDataTransfer\bin\Debug\COMPDT.pdb
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.csprojAssemblyReference.cache
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.Form.resources
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.Properties.Resources.resources
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.csproj.GenerateResource.cache
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.csproj.CoreCompileInputs.cache
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.exe
+C:\Users\kenia\yorati\SerialPortDataTransfer\obj\Debug\COMPDT.pdb
+C:\Users\kenia\KRST\SerialPortDataTransfer\bin\Debug\COMPDT.exe
+C:\Users\kenia\KRST\SerialPortDataTransfer\bin\Debug\COMPDT.pdb
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.csprojAssemblyReference.cache
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.Properties.Resources.resources
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.csproj.GenerateResource.cache
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.csproj.CoreCompileInputs.cache
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.exe
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.pdb
+C:\Users\kenia\KRST\SerialPortDataTransfer\obj\Debug\COMPDT.Form.resources
